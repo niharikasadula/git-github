@@ -1,2 +1,2 @@
 # git-github
-this is github tutotial. I learning for the first time
+This is github tutotial. I am learning for the first time
